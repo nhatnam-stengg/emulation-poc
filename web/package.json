@@ -1,0 +1,14 @@
+{
+  "name": "web-emulation",
+  "version": "1.0.0",
+  "description": "Web user emulation script using Playwright",
+  "main": "emulate.js",
+  "scripts": {
+    "start": "node emulate.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.45.0"
+  }
+}
